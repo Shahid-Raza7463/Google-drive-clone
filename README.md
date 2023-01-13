@@ -23,9 +23,11 @@ Drag hare image file
 
 <div>
 <img src="Screenshot (26).png" alt="" height="340px" width="500px" />
-<img src="Screenshot (26).png" alt="" />
-<img src="Screenshot (26).png" alt="" />
-<img src="Screenshot (26).png" alt="" />
+<img src="Screenshot (26).png" alt="" height="340px" width="500px" />
+</div>
+<div>
+<img src="Screenshot (26).png" alt="" height="340px" width="500px" />
+<p>good job </p>
 </div>
 
 ## Project
