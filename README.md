@@ -22,7 +22,7 @@ https://shahid-raza7463.github.io/Online-book-store/
 Drag hare image file
 
 <div>
-<img src="Screenshot (26).png" alt="" />
+<img src="Screenshot (26).png" alt="" height="80px" width="60px" />
 <img src="Screenshot (26).png" alt="" />
 <img src="Screenshot (26).png" alt="" />
 <img src="Screenshot (26).png" alt="" />
