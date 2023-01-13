@@ -1,33 +1,21 @@
-# Online Book Store
+# Google Drive Clone
 
-### About online book store
+### About Google Drive Clone
 
-this is my third website
+this is my ..............
 
 ## Module
 
-1.Home page  
-2.Product page  
-3.Product's Details.  
-4.login  
-5.sign up  
-6.logout
+1.Home
 
 ## My site is live at
 
-https://shahid-raza7463.github.io/Online-book-store/
+https://shahid-raza7463.github.io/Google-drive-clone/
 
 ## Demo
 
-Drag hare image file
-
 <div>
-<img src="Screenshot (26).png" alt="" height="340px" width="500px" />
-<img src="Screenshot (26).png" alt="" height="340px" width="500px" />
-</div>
-<div>
-<img src="Screenshot (26).png" alt="" height="340px" width="500px" />
-<p>good job </p>
+<img src="Documentation\gogle drive clone.jpg" alt=""/>
 </div>
 
 ## Project
@@ -41,8 +29,8 @@ Here are links to some of my projects.
 - [Contact details collect](https://shahid-raza7463.github.io/Contact-details-collect/)
 - [Facebook login system](https://shahid-raza7463.github.io/Facebook-loginsystem/)
 - [Analog digital clock](https://shahid-raza7463.github.io/Analog-digital-clock/)
-- [Login system](https://shahid-raza7463.github.io/Analog-digital-clock/)
+- [Login system](https://shahid-raza7463.github.io/Login-system/)
 
 ## How it was built
 
-I have used html javascript etc
+I have used html,javascript,css to create this project etc
