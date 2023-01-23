@@ -2,7 +2,7 @@
 
 ### About Google Drive Clone
 
-this is my ..............
+Google Drive clone where my purpose was to duplicate of Google Drive and I have done I have used HTML,CSS and font awesome icon to create this project.
 
 ## Module
 
